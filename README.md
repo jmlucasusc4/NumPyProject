@@ -1,9 +1,9 @@
 # NumPyProject
 Project :
-Let us build a complete project using NumPy (without any help).
 
 Path: project_data = 'KAG_Conversion_Data.csv'
 Features:
+
 ad_id: unique ID for each ad
 xyzcampaignid: an ID associated with each ad campaign of XYZ company
 fbcampaignid: an ID associated with how Facebook tracks each campaign
